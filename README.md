@@ -1,4 +1,5 @@
 # Free Portfolio Website Templates
+
 <p>
   <a href="https://github.com/OSSPhilippines/freefolio/blob/main/CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" height="20" alt="PRs Welcome"> 
@@ -10,6 +11,8 @@
     <img alt="GitHub Stars" src="https://badgen.net/github/stars/OSSPhilippines/freefolio/?style=flat-square">
   <a href="https://github.com/OSSPhilippines/freefolio/network">
     <img alt="GitHub Forks" src="https://badgen.net/github/forks/OSSPhilippines/freefolio/?style=flat-square">
+  <a href="https://commitizen.github.io/cz-cli/">
+    <img alt="GitHub Forks" src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square">
 </p>
 
 A collection of **100% FREE** to use portfolio website templates.
@@ -30,33 +33,39 @@ A collection of **100% FREE** to use portfolio website templates.
 
 ## 🎨 Templates
 
-<h3><a href="https://ossphilippines.github.io/freefolio/hacker">Hacker</a></h3>
+<h3><a href="https://freefolio.web.app/hacker" target="_blank">Hacker</a></h3>
 <img src="./images/hacker.png" alt="hacker-screenshot"/>
 
-<h3><a href="https://ossphilippines.github.io/freefolio/indify">Indify</a></h3>
+<h3><a href="https://freefolio.web.app/indify" target="_blank">Indify</a></h3>
 <img src="./images/indify.png" alt="indify-screenshot"/>
 
-<h3><a href="https://ossphilippines.github.io/freefolio/plain">Plain</a></h3>
+<h3><a href="https://freefolio.web.app/plain" target="_blank">Plain</a></h3>
 <img src="./images/plain.png" alt="plain-screenshot"/>
   
-<h3><a href="https://ossphilippines.github.io/freefolio/beginner">Beginner</a></h3>
+<h3><a href="https://freefolio.web.app/beginner" target="_blank">Beginner</a></h3>
 <img src="./images/beginner.png" alt="beginner-screenshot"/>
 
-<h3><a href="https://ossphilippines.github.io/freefolio/outlines">Outlines</a></h3>
+<h3><a href="https://freefolio.web.app/outlines" target="_blank">Outlines</a></h3>
 <img src="./images/outlines.png" alt="outlines-screenshot"/>
 
-<h3><a href="https://ossphilippines.github.io/freefolio/clean">Clean</a></h3>
+<h3><a href="https://freefolio.web.app/clean" target="_blank">Clean</a></h3>
 <img src="./images/clean.png" alt="clean-screenshot"/>
 
-<h3><a href="https://ossphilippines.github.io/freefolio/deepsea">Deep Sea</a></h3>
+<h3><a href="https://freefolio.web.app/deepsea" target="_blank">Deep Sea</a></h3>
 <img src="./images/deepsea.png" alt="deepsea-screenshot"/>
 
-<h3><a href="https://ossphilippines.github.io/freefolio/simple">Simple</a></h3>
+<h3><a href="https://freefolio.web.app/simple" target="_blank">Simple</a></h3>
 <img src="./images/simple.PNG" alt="simple-screenshot"/>
+
+<h3><a href="https://freefolio.web.app/dark-hack" target="_blank">Dark Hack</a></h3>
+<img src="./images/dark-hack.png" alt="simple-screenshot"/>
+
+<h3><a href="https://freefolio.web.app/ingolfur" target="_blank">Ingólfur</a></h3>
+<img src="./images/ingolfur.png" alt="ingolfur"/>
 
 ## 😤 I own the content in your templates
 
-If any of the content from our collection is own by you or your organization and it has no proper attribution to the owner, please send us an email at opensourcesoftwareph@gmail.com. This happens sometimes and we apologize if we overlooked it. 
+If any of the content from our collection is own by you or your organization and it has no proper attribution to the owner, please send us an email at opensourcesoftwareph@gmail.com. This happens sometimes and we apologize if we overlooked it.
 
 ## 🎯 Contributing
 
